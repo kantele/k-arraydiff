@@ -1,10 +1,10 @@
 {
-  "name": "arraydiff",
+  "name": "k-arraydiff",
   "description": "Diff two arrays, finding inserts, removes, and moves",
-  "homepage": "https://github.com/codeparty/arraydiff",
+  "homepage": "https://github.com/kantele/k-arraydiff",
   "repository": {
     "type": "git",
-    "url": "https://github.com/codeparty/arraydiff"
+    "url": "https://github.com/kantele/k-arraydiff"
   },
   "version": "0.1.1",
   "main": "./index.js",
